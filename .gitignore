@@ -75,3 +75,7 @@ snapshots/
 # Auto-generated project index (rebuild with: python3 -m src.tools.indexer)
 project_index.json
 .index_cache.json
+
+# Local AI-session tooling (kept out of the public repo)
+Makefile
+scripts/
