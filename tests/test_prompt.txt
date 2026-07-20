@@ -1,0 +1,4 @@
+This is a test prompt file.
+It contains a TODO marker to test warning detection.
+And a STUB marker as well.
+The file is short and UTF-8 encoded.
